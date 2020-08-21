@@ -1,0 +1,216 @@
+.App {
+  text-align: center;
+  
+}
+body {
+  background-color: antiquewhite;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.header-container {
+  background-color: grey;
+  height: 380px;
+  margin: 0px 0px 0px 0px;
+  padding: 0px;
+  text-align: center;
+  background-image: url('./images/background-7.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: scroll fixed;
+  background-size: 100% 180%;
+}
+
+h1 {
+ background-color: #6ddbfa;
+}
+
+.navigation-button {
+  padding: 20px 20px 20px 20px;
+  background-color: rgb(176, 176, 176);
+}
+
+.navigation-button button{
+  height: 30px;
+  width: 130px;
+  background-color: #6ddbfa;
+  font-weight: bolder;
+  border-radius: 6px;
+  border: 2px solid;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.navigation-button button:hover {
+  background-color: rgb(243, 134, 95);
+}
+
+.delete-meetup button{
+  height: 30px;
+  width: 190px;
+  background-color: #6ddbfa;
+  font-weight: bolder;
+  border-radius: 6px;
+  border: 2px solid;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+.delete-meetup button:hover {
+  background-color: rgb(243, 134, 95);
+}
+
+ul {
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+  align-items: center;
+  display: inline-block;
+  border: 2px solid;
+}
+
+.meetups {
+  background-color: rgb(217, 156, 94);
+  padding: 10px 10px 10px 10px;
+  height: fit-content;
+  width: fit-content; 
+}
+
+
+.meetups button {
+  height: 30px;
+  width: 190px;
+  background-color: #6ddbfa;
+  font-weight: bolder;
+  border-radius: 6px;
+  border: 2px solid;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+.meetups button:hover {
+  background-color: rgb(243, 134, 95);
+}
+
+.meetup-heading {
+  font-weight: bolder;
+  font-variant: small-caps;
+  font-size: x-large;
+}
+
+.invited-meetup-container {
+  padding-bottom: 20px;
+}
+
+.create-meetup-container button{
+  height: 30px;
+  width: 300px;
+  background-color: #6ddbfa;
+  font-weight: bolder;
+  border-radius: 6px;
+  border: 2px solid;
+  margin: 20px 20px 20px 20px;
+}
+
+.login-conatiner {
+  background-color: peru;
+}
+.login-username {
+  margin-top: 80px;
+  margin-bottom: 30px;
+  height: 30px;
+  width: 380px;
+  border: 2px solid;
+  border-radius: 5px;
+}
+
+.login-button {
+  height: 35px;
+  width: 100px;
+  background-color: #6ddbfa;
+  font-weight: bolder;
+  border-radius: 6px;
+  border: 2px solid;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.login-button:hover {
+  background-color: rgb(243, 134, 95);
+}
+
+
+
+.registration-container input {
+  margin-top: 80px;
+  margin-bottom: 30px;
+  height: 30px;
+  width: 180px;
+  border: 2px solid;
+  border-radius: 5px;
+}
+
+.registration-container button {
+  height: 35px;
+  width: 200px;
+  background-color: #6ddbfa;
+  font-weight: bolder;
+  border-radius: 6px;
+  border: 2px solid;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.registration-container button:hover {
+  background-color: rgb(243, 134, 95);
+}
+
+.error {
+  color: red;
+  font-weight: bolder;
+}
+
+.create-meetup-container {
+  margin-top: 30px;
+  font-weight: bold;
+}
+
+.select-users {
+  font-weight: bold;
+}
+
+.filter-list {
+  margin-top: 10px;
+  width: 200px;
+  text-align: center;
+  overflow-y: scroll;
+  padding: 5px 5px 5px 5px;
+}
+
+.footer {
+  background-color: rgb(176, 176, 176);
+  padding: 20px 20px 20px 20px;
+  font-weight: bolder;
+  bottom: 0px;
+  width: 97%;
+}
+
+.back-home {
+  padding: 10px 20px 10px 20px;
+  background-color: #6ddbfa;
+  border-radius: 6px;
+  border: 2px solid black;
+
+}
+
+.li-meetup {
+  padding-bottom: 10px;
+}
+
+.meetup {
+  padding-bottom: 10px;
+}
+
+.register-link {
+  margin-bottom: 77px;
+}
