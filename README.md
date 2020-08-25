@@ -1,6 +1,6 @@
 ### User Interface
 
-![Image](./src/images/ProposedSolutionDMDD.PNG)
+![Image](./src/images/login-page.PNG)
 
 
 ### Module-based functionality
