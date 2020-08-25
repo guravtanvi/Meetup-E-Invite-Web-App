@@ -28,6 +28,8 @@ For logging out of the current account, the user will be clicking the logout but
 #### Create Meetup Button (Component - NewMeetup)
 User can create new meetups having the Meetup Title, Place, Date, Time and Agenda which happens to be the fields required to create a meetup along with the list of registered members that needs to be invited for the meetup. Once we submit the newly created meetup form, we see a summary of the created meetup, this meetup can be seen in the created meetups list of the user which have created the meetup and for the invited members, this meetup request will be seen in the invited meetup list. From meetup summary page we have a link to navigate back to the home page.
 
+![Image](./src/images/create-meetup.PNG)
+
 #### Created Meetup list (Component - CreatedMeetup)
 This is the list of all the meetups which are created by the user. Each of the meetup in the list has Meetup Title, Place, Date, Time which gives and easy overview of the meetup. It also has following two buttons associated with each meetup:
 
