@@ -11,6 +11,8 @@ There can be two possibility:
 * If the user does not have an account on this app, the registration page will help to register a user for login details. 
 * For registration, one requires to fill up first name and last name and the concatenation of firstname and lastname becomes the username of a particular user use for login.
 
+![Image](./src/images/registration-page.PNG)
+
 ### User Home Page/Dashboard (Component - UserHome): 
 The home page after the user logs in to the account can also be called as the main dash board of the user which has the following features:
 
