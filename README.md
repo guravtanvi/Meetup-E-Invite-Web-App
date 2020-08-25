@@ -1,6 +1,6 @@
 ### User Interface
 
-![Image](./src/images/login-page.PNG)
+
 
 
 ### Module-based functionality
@@ -10,12 +10,16 @@ There can be two possibility:
 * New User: If the user is new and do not have an account on the app, they would new to register with the help of the link provided for a new account.
 * Existing User: If the user is existing, i.e they already have an account on the app, they just have to enter their username used while registring for the account.
 
+![Image](./src/images/login-page.PNG)
+
 ### Signup/Registration Page (Component - Registration): 
 * If the user does not have an account on this app, the registration page will help to register a user for login details. 
 * For registration, one requires to fill up first name and last name and the concatenation of firstname and lastname becomes the username of a particular user use for login.
 
 ### User Home Page/Dashboard (Component - UserHome): 
 The home page after the user logs in to the account can also be called as the main dash board of the user which has the following features:
+
+![Image](./src/images/home-page.PNG)
 
 #### Delete User Account Button (Component - DeleteUser)
 User can delete its account if they wish to by clicking on this button and we are re-directed to login page. After deleting, the account will no longer exist and the user will have to register again in case if he wish to keep using using the application
