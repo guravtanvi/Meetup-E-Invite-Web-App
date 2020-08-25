@@ -1,8 +1,3 @@
-### User Interface
-
-
-
-
 ### Module-based functionality
 
 #### Signin/Login Page (Component - LoginPage): 
