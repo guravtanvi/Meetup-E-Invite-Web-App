@@ -1,3 +1,7 @@
+### User Interface
+
+![Image](ProposedSolutionDMDD.PNG)
+
 
 ### Module-based functionality
 
