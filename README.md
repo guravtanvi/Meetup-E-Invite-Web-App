@@ -1,6 +1,3 @@
-# Meetup-E-Invite-Web-App
-
-The Meetup-App project is a React-based SPA Web application which deals with creating official meetups in a organization/department/team. The member of the organization can create new meetups with elaborate details such as date, time, place, agenda and the members to be invited for the meetups. The invited members will have meetup requests and they can send feedback to the corresponding request by informing their availability.
 
 ### Module-based functionality
 
